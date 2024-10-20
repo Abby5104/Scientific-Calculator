@@ -1,0 +1,7 @@
+C:\Users\abega\source\repos\ScientificCalculator\ScientificCalculator\bin\Debug\ScientificCalculator.exe.config
+C:\Users\abega\source\repos\ScientificCalculator\ScientificCalculator\bin\Debug\ScientificCalculator.exe
+C:\Users\abega\source\repos\ScientificCalculator\ScientificCalculator\bin\Debug\ScientificCalculator.pdb
+C:\Users\abega\source\repos\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.csproj.AssemblyReference.cache
+C:\Users\abega\source\repos\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.csproj.CoreCompileInputs.cache
+C:\Users\abega\source\repos\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.exe
+C:\Users\abega\source\repos\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.pdb
